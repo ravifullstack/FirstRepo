@@ -1,4 +1,5 @@
 Hello!
+<<<<<<< HEAD
 India
 =======
 Bharat
